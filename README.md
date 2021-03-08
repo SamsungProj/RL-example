@@ -1,4 +1,4 @@
-# RLexample
+# RL example
 
 ## Environment
 
